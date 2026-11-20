@@ -1,0 +1,6 @@
+{
+  "name": "Magic Bus Training Report Generator",
+  "description": "Generate and download high-resolution training program reports for Magic Bus India Foundation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
